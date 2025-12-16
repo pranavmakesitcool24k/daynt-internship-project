@@ -56,7 +56,7 @@ No database or additional tools required - the application runs entirely in the 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/pranavpardeshi/csv-runner-dashboard.git
+git clone https://github.com/pranavpardeshi/daynt-internship-project.git
 cd csv-runner-dashboard
 ```
 
